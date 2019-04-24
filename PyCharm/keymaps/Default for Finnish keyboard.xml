@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for finnish keyboard" parent="$default">
+<keymap version="1" name="Default for Finnish keyboard" parent="$default">
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl plus" />
