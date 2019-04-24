@@ -21,12 +21,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt plus" />
   </action>
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
